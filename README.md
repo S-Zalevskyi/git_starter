@@ -6,10 +6,10 @@ You want to poll this change!
 bla bla bla bla
 
 ```java
-publik class MyCat {
+public class MyCat {
 		private String name;
 		
-		puclic MyCat(String name) {
+		public MyCat(String name) {
 				this.name = name
 		}
 ```
